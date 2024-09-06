@@ -1,0 +1,230 @@
+----> 4 класс
+
+Step 1
+cousin = двоюродный брат/сестра
+daughter = дочь
+film = кинофильм
+television = телевидение
+watch = смотреть
+
+Step 2
+what = что
+who = кто
+where = где
+when = когда
+why = почему
+
+Step 3
+always = всегда
+never = никогда
+often = часто
+sometimes = иногда
+usually = обычно
+
+Step 4
+my = мой
+your = твой
+his = его
+her = её
+our = наш
+their = их
+
+Step 5
+interesting = интересный
+listen = слушать
+music = музыка
+piano = пианино
+programme = программа
+work = работа
+
+Step 6
+never = никогда
+often = часто
+always = всегда
+sometimes = иногда
+usually = обычно
+
+Step 7
+begin = начинаться
+breakfast = завтрак
+dress = одеваться
+finish = заканчиваться
+get up = вставать
+home = дом
+lunch = ланч
+be on time = прийти вовремя
+
+Step 8
+after = после
+come = приходить (приезжать)
+every = каждый
+lesson = урок
+swimming pool = бассейн
+take = брать
+wash = мыть, стирать
+
+Step 9
+me = меня, мне, обо мне
+him = ему, его, о нем
+her = её, ей, о неё
+us = нас, нам, о нас
+you = тебя/вас, о тебе/о вас
+
+Step 10
+bathroom = ванная комната
+flat = квартира
+garden = сад
+kitchen = кухня
+living room = гостиная
+modern = современный
+show = показывать
+
+Step 11
+behind = позади
+in front of = перед (чем-либо)
+left = левый
+on the left = слева
+on my left = слева от меня
+middle = середина
+next to = рядом с
+right = правый
+on the right = справа
+on my right = справа от меня
+
+Step 12
+armchair = кресло
+bookcase = книжный шкаф
+cupboard = кухонный шкаф
+downstairs = внизу
+ready = готовый
+sofa = диван
+upstairs = наверху
+
+Step 13
+carpet = ковёр
+comfortable = удобный
+cosy = уютный
+messy = неприбранный
+picture = картина
+tidy = аккуратный
+wide = широкий
+
+Step 14
+before = до
+blackboard = классная доска
+class = класс, урок
+classroom = классная комната
+give = давать
+plant = растение
+put = ставить
+windowsill = подоконник
+some = немного, несколько
+
+Step 15
+twenty = двадцать
+thirty = тридцать
+forty = сорок
+fifty = пятьдесят
+sixty = шестьдесят
+seventy = семьдесят
+eighty = восемьдесят
+ninety = девяность
+a hundred = сто
+
+Step 16
+bread = хлеб
+butter = сливочное масло
+jam = джем, варенье
+juice = сок
+soup = суп
+tea = чай
+water = вода
+
+Step 17
+answer = ответ
+ask = спрашивать
+close = закрывать
+open = открывать
+question = вопрос
+understand = понимать
+
+Step 18
+enjoy = получать удовольствие
+favourite = любимый
+make = делать
+tasty = вкусный
+think = думать
+walk = идти пешком, гулять
+wonderful = чудесный
+
+Step 19
+cheese = сыр
+cornflakes = кукурузные хлопья
+ham = ветчина
+porridge = овсяная каша
+sugar = сахар
+cream = сливки
+bacon = бекон
+fridge = холодильник
+
+Step 20
+chicken = цыпленок
+cucumber = огурец
+dinner = обед
+potato = картофель
+rice = рис
+supper = ужин
+vegetable = овощ
+
+Step 21
+ago = тому назад
+last = последний
+then = тогда
+was = был, была
+were = были
+yesterday = вчера
+
+Step 22
+good = хороший
+better = лучще
+best = наилучший
+bad = плохой
+worse = хуже
+worst = наихудший
+
+Step 23
+cloudy = облачный
+dry = сухой
+foggy = туманный
+rainy = дождливый
+snowy = снежный
+sunny = солнечный
+warm = теплый
+windy = ветреный
+
+Step 24
+blow = дуть
+nasty = неприятный
+put on = надевать
+shine = светить
+take off = снимать
+want = хотеть
+weather = погода
+
+Step 25
+decide = решать
+invite = приглашать
+join = присоединяться
+talk = разговаривать
+travel = путешествовать
+try = пытаться
+visit = посещать
+
+Step 26
+country = страна
+holiday = выходной
+next = следующий
+people = люди
+place = место
+soon = вскоре
+tomorrow = завтра

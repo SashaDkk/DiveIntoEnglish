@@ -1,0 +1,617 @@
+﻿1
+; Первая строчка - это 100% версия, ее не трогаем!
+; Слова для программы
+; Правила заполнения:
+; 1. Строки, начинающиеся с ';', игнорируются
+; 2. Слова разбиваются на разделы (по четвертям, урокам, как угодно), название раздела обязательно и не должно содержать знак '='
+; 3. Слова в разделе пишутся в формате englishWord = Русский перевод
+; 4. Каждый новый учебник отделяется знаком ---->
+
+----> 2 класс
+
+Step 5
+bed = кровать
+tent = палатка
+ten = десять
+bell = звонок
+net = сачок
+belt = ремень
+egg = яйцо
+nest = гнездо
+desk = парта
+pen = ручка
+elf = эльф
+
+Step 8
+milk = молоко
+hill = холм
+kid = козленок
+pig = поросенок
+six = шесть
+wind = ветер
+
+Step 9
+dog = собака
+box = коробка
+fox = лиса
+doll = кукла
+frog = лягушка
+pond = пруд
+troll = тролль
+lorry = грузовик
+
+Step 10
+bus = автобус
+sun = солнце
+jug = кувшин
+cup = чашка
+mug = кружка
+
+Step 11
+tree = дерево
+street = улица
+bee = пчела
+sweet = конфета
+
+Step 15
+shop = магазин
+ship = корабль
+fish = рыба
+dish = тарелка
+shelf = полка
+sheep = овца
+
+Step 16
+cat = кошка
+cap = кепка
+ant = муравей
+bag = сумка
+lamp = лампа
+van = фургон
+map = карта
+hat = шляпа
+
+Step 17
+cock = петух
+clock = часы
+sock = носок
+duck = утка
+black = черный
+
+Step 18
+book = книга
+cook = повар
+hook = крючок
+wood = лес
+
+Step 22
+bench = скамейка
+chimp = шимпанзе
+chick = цыпленок
+cherry = вишня
+match = спичка
+
+Step 24
+car = машина
+star = звезда
+park = парк
+door = дверь
+farm = ферма
+port = порт
+horse = лошадь
+floor = пол
+
+Step 25
+queen = королева
+quilt = одеяло
+red = красный
+green = зелёный
+black = чёрный
+
+Step 29
+mum = мама
+dad = папа
+granny = бабушка
+grandad = дедушка
+
+Step 31
+name = имя
+game = игра
+cake = торт
+lake = озеро
+plane = самолет
+plate = тарелка
+we = мы
+
+Step 33
+rose = роза
+stone = камень
+bone = кость
+phone = телефон
+boat = лодка
+coat = пальто
+old = старый
+cold = холод
+
+Step 36
+blue = синий
+tulip = тюльпан
+pupil = ученик
+student = студент
+cute = милый
+
+Step 43
+bike = велосипед
+kite = воздушный змей
+pilot = пилот
+pie = пирог
+five = пять
+nine = девять
+my = мой
+bye-bye = до свидания
+
+Step 52
+bird = птица
+girl = девочка
+birch = береза
+nurse = медсестра
+turtle = черепаха
+purple = фиолетовый
+mermaid = русалка
+servant = прислуга
+fern = папоротник
+
+Step 54
+apple = яблоко
+plum = слива
+lemon = лимон
+banana = банан
+grape = виноград
+orange = апельсин
+
+Step 57
+clown = клоун
+cow = корова
+down = вниз
+brown = коричневый
+mouse = мышь
+blouse = блузка
+house = дом
+
+Step 60
+room = комната
+roof = крыша
+boot = ботинок
+spoon = ложка
+moon = луна
+school = школа
+afternoon = полдень
+
+
+
+----> 3 класс
+
+Unit 1 Step 1-3
+this = этот (эта, это)
+that = тот (та, то)
+these = эти
+those = те
+my = мой
+your = твой
+his = его
+her = её
+
+Unit 1 Step 4
+have = иметь
+king = король
+ring = кольцо
+wing = крыло
+stocking = чулок
+kangaroo = кенгуру
+english = английский
+pink = розовый
+bank = банк
+
+Unit 1 Step 5
+ping-pong = пинг-понг
+skating rink = ледовый каток
+song = песня
+morning = утро
+evening = вечер
+thank = благодарить
+
+Unit 2 Step 1 (1)
+flower = цветок
+tower = башня
+shower = душ
+chair = стул
+bear = медведь
+teddy bear = плюшевый мишка
+
+Unit 2 Step 1 (2)
+parents = родители
+mother = мать
+father = отец
+grandparents = бабушка с дедушкой
+
+Unit 2 Step 3
+eat = есть (пищу)
+read = читать
+speak = говорить
+teach = учить
+very = очень
+well = хорошо
+
+Unit 3 Step 1
+sparrow = воробей
+yellow = желтый
+window = окно
+rainbow = радуга
+low = низкий
+slow = медленный
+narrow = узкий
+
+Unit 3 Step 2 (1)
+black = черный
+red = красный
+yellow = желтый
+brown = коричневый
+green = зеленый
+pink = розовый
+blue = синий
+purple = фиолетовый
+
+Unit 3 Step 2 (2)
+grey = серый
+white = белый
+dark blue = темно-синий
+dark green = темно-зеленый
+dark brown = темно-коричневый
+dark grey = темно-серый
+light = светлый
+bright = яркий
+
+Unit 3 Step 5
+weak = слабый
+old = старый
+fat = толстый (животное)
+thick = толстый (предмет)
+young = молодой
+thin = тонкий, худой
+strong = сильный
+new = новый
+
+Unit 4 Step 1
+ball = мяч
+wall = стена
+hall = прихожая
+small = маленький
+tall = высокий
+
+Unit 4 Step 2
+long = длинный
+short = короткий
+clean = чистый
+dirty = грязный
+
+Unit 4 Step 3
+thirteen = тринадцать
+fourteen = четырнадцать
+fifteen = пятнадцать
+sixteen = шестнадцать
+seventeen = семнадцать
+eighteen = восемнадцать
+nineteen = девятнадцать
+twenty = двадцать
+
+Unit 4 Step 5
+drive = водить машину
+write = писать
+skate = кататься на коньках
+ski = кататься на лыжах
+count = считать
+dance = танцевать
+
+Unit 5 Step 2
+snail = улитка
+tail = хвост
+train = поезд
+coins = монеты
+pointer = указка
+toys = игрушки
+
+Unit 5 Step 3
+family = семья
+candle = свеча
+table = стол
+present = подарок
+wife = жена
+husband = муж
+friend = друг
+
+Unit 5 Step 5
+sunday = воскресенье
+monday = понедельник
+tuesday = вторник
+wednesday = среда
+thursday = четверг
+friday = пятница
+saturday = суббота
+
+Unit 6 Step 2
+fire = огонь
+diary = дневник
+giant = гигант
+tired = уставший
+hungry = голодный
+thirsty = жаждущий
+sick = больной
+
+Unit 6 Step 3
+gym = спортзал
+cage = клетка
+stage = сцена
+page = страница
+general = генерал
+sledge = сани
+
+Unit 7 Step 1
+mice = мыши
+ice cream = мороженое
+cinema = кинотеатр
+ice = лед
+pencil = карандаш
+go = идти (ехать)
+
+Unit 7 Step 3
+giraffe = жираф
+crocodile = крокодил
+elephant = слон
+tiger = тигр
+lion = лев
+hare = заяц
+animals = животные
+
+Unit 7 Step 4
+live = жить
+love = любить
+hate = ненавидеть
+like = нравится
+
+Unit 8 Step 1
+year = год
+near = рядом
+clear = ясный (чистый)
+here = здесь
+spring = весна
+summer = лето
+autumn = осень
+winter = зима
+
+Unit 8 Step 2
+month = месяц
+january = январь
+february = февраль
+march = март
+april = апрель
+may = май
+june = июнь
+july = июль
+august = август
+september = сентябрь
+october = октябрь
+november = ноябрь
+december = декабрь
+
+Unit 8 Step 3
+season = время года
+week = неделя
+late = поздний
+early = ранний
+beautiful = красивый
+pleasant = приятный
+
+Unit 8 Step 5
+canada = канада
+spain = испания
+india = индия
+britain = англия
+russia = россия
+italy = италия
+france = франция
+the USA = США
+
+----> 4 класс
+
+Unit 1 Step 1
+cousin = двоюродный брат/сестра
+daughter = дочь
+film = кинофильм
+television = телевидение
+watch = смотреть
+when = когда
+why = почему
+
+Unit 1 Step 3
+always = всегда
+never = никогда
+often = часто
+sometimes = иногда
+usually = обычно
+
+Unit 1 Step 5
+interesting = интересный
+listen = слушать
+music = музыка
+piano = пианино
+programme = программа
+work = работа
+
+Unit 2 Step 1
+begin = начинаться
+breakfast = завтрак
+dress = одеваться
+finish = заканчиваться
+get up = вставать
+home = дом
+lunch = ланч
+be on time = прийти вовремя
+
+Unit 2 Step 3
+after = после
+come = приходить (приезжать)
+every = каждый
+lesson = урок
+swimming pool = бассейн
+take = брать
+wash = мыть, стирать
+
+Unit 3 Step 1
+bathroom = ванная комната
+flat = квартира
+garden = сад
+kitchen = кухня
+living room = гостиная
+modern = современный
+show = показывать
+
+Unit 3 Step 2
+behind = позади
+in front of = перед (чем-либо)
+left = левый
+on the left = слева
+on my left = слева от меня
+middle = середина
+next to = рядом (с)
+right = правый
+on the right = справа
+on my right = справа от меня
+
+Unit 3 Step 3
+armchair = кресло
+bookcase = книжный шкаф
+cupboard = кухонный шкаф
+downstairs = внизу
+ready = готовый
+sofa = диван
+upstairs = наверху
+
+Unit 3 Step 5
+carpet = ковёр
+comfortable = удобный
+cosy = уютный
+messy = неприбранный
+picture = картина
+tidy = аккуратный
+wide = широкий
+
+Unit 4 Step 1
+before = до
+blackboard = классная доска
+class = класс, урок
+classroom = классная комната
+give = давать
+plant = растение
+put = ставить
+windowsill = подоконник
+
+Unit 4 Step 2
+twenty = двадцать
+thirty = тридцать
+forty = сорок
+fifty = пятьдесят
+sixty = шестьдесят
+seventy = семьдесят
+eighty = восемьдесят
+ninety = девяносто
+a hundred = сто
+
+Unit 4 Step 3
+bread = хлеб
+butter = сливочное масло
+jam = джем, варенье
+juice = сок
+soup = суп
+tea = чай
+water = вода
+
+Unit 4 Step 5
+answer = ответ
+ask = спрашивать
+close = закрывать
+open = открывать
+question = вопрос
+understand = понимать
+
+Unit 5 Step 1
+enjoy = получать удовольствие
+favorite = любимый
+make = делать
+tasty = вкусный
+think = думать
+walk = идти пешком, гулять
+wonderful = чудесный
+
+Unit 5 Step 13
+cheese = сыр
+cornflakes = кукурузные хлопья
+ham = ветчина
+porridge = овсяная каша
+sugar = сахар
+cream = сливки
+bacon = бекон
+fridge = холодильник
+
+Unit 5 Step 5
+chicken = цыпленок
+cucumber = огурец
+dinner = обед
+potato = картофель
+rice = рис
+supper = ужин
+vegetable = овощ
+
+Unit 6 Step 1
+ago = тому назад
+last = последний
+then = тогда
+was = был, была
+were = были
+yesterday = вчера
+
+Unit 6 Step 3
+cloudy = облачный
+dry = сухой
+foggy = туманный
+rainy = дождливый
+snowy = снежный
+sunny = солнечный
+warm = теплый
+windy = ветреный
+
+Unit 6 Step 5
+blow = дуть
+nasty = неприятный
+put on = надевать
+shine = светить
+take off = снимать
+want = хотеть
+weather = погода
+
+Unit 7 Step 3
+decide = решать
+invite = приглашать
+join = присоединяться
+talk = разговаривать
+travel = путешествовать
+try = пытаться
+visit = посещать
+
+Unit 7 Step 5
+country = страна
+holiday = выходной
+next = следующий
+people = люди
+place = место
+soon = вскоре
+tomorrow = завтра
